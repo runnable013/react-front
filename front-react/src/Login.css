@@ -1,0 +1,47 @@
+.body {
+  margin: 240px auto;
+  width: 260px;
+  height: 300px;
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 30px;
+  font-size: 48px;
+}
+
+.id-input,
+.password-input {
+  margin-bottom: 5px;
+  width: 160px;
+  height: 20px;
+}
+
+.login-btn {
+  width: 180px;
+  height: 25px;
+  margin-bottom: 30px;
+  outline: 0;
+  border-radius: 4px;
+}
+
+.login-under {
+  width: 300px;
+}
+
+.href-color {
+  -ms-user-select: none;
+  -moz-user-select: -moz-none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+.href-color:hover {
+  color: darkslategrey;
+}
+
+.under-content {
+  float: left;
+  margin-left: 5px;
+}

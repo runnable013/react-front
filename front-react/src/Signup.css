@@ -1,0 +1,26 @@
+input {
+  width: 200px;
+  height: 28px;
+  margin-bottom: 30px;
+}
+
+.body {
+  margin: 160px auto;
+  width: 280px;
+  height: 300px;
+  text-align: center;
+}
+
+.logo {
+  font-size: 32px;
+  margin-bottom: 34px;
+}
+
+.login-btn {
+  width: 220px;
+  height: 32px;
+}
+
+.login-btn:hover {
+  color: darkslategrey;
+}
